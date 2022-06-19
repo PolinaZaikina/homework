@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\задание 6 2 вариант 9\bin\Debug\задание 6 2 вариант 9.exe.config
+C:\Users\User\source\repos\задание 6 2 вариант 9\bin\Debug\задание 6 2 вариант 9.exe
+C:\Users\User\source\repos\задание 6 2 вариант 9\bin\Debug\задание 6 2 вариант 9.pdb
+C:\Users\User\source\repos\задание 6 2 вариант 9\obj\Debug\задание 6 2 вариант 9.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\задание 6 2 вариант 9\obj\Debug\задание 6 2 вариант 9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\задание 6 2 вариант 9\obj\Debug\задание 6 2 вариант 9.exe
+C:\Users\User\source\repos\задание 6 2 вариант 9\obj\Debug\задание 6 2 вариант 9.pdb

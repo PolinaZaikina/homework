@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\вариант13\bin\Debug\вариант13.exe.config
+C:\Users\User\source\repos\вариант13\bin\Debug\вариант13.exe
+C:\Users\User\source\repos\вариант13\bin\Debug\вариант13.pdb
+C:\Users\User\source\repos\вариант13\obj\Debug\вариант13.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\вариант13\obj\Debug\вариант13.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\вариант13\obj\Debug\вариант13.exe
+C:\Users\User\source\repos\вариант13\obj\Debug\вариант13.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\задание9 вариант9\obj\Debug\задание9 вариант9.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\задание9 вариант9\obj\Debug\задание9 вариант9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\задание9 вариант9\bin\Debug\задание9 вариант9.exe.config
+C:\Users\User\source\repos\задание9 вариант9\bin\Debug\задание9 вариант9.exe
+C:\Users\User\source\repos\задание9 вариант9\bin\Debug\задание9 вариант9.pdb
+C:\Users\User\source\repos\задание9 вариант9\obj\Debug\задание9 вариант9.exe
+C:\Users\User\source\repos\задание9 вариант9\obj\Debug\задание9 вариант9.pdb
